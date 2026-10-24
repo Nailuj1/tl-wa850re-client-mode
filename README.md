@@ -150,5 +150,6 @@ Falls Sie das Gerät jemals wieder als herkömmlichen Repeater mit eigenem WLAN 
 
 ---
 
-## ⚖️ Lizenz
+## ⚖️ Lizenz & Info
 MIT License. Frei zur privaten und kommerziellen Nutzung.
+Wurde mit Goggle Antigravity Agent gefunden.
