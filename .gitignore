@@ -1,0 +1,11 @@
+# Private backups & firmware archives (contain private Wi-Fi credentials)
+*.bin
+*.zip
+*.html
+web_ui_dump/
+firmware_extracted/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
